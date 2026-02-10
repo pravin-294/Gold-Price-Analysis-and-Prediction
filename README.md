@@ -112,7 +112,7 @@ It is suitable for **Data Analyst and entry-level Machine Learning roles** and p
 ## 📄 Project Report
 A detailed project report is available in PDF format:
 
-📘 **Gold_Price_Analysis_and_Prediction_Attractive_Report.pdf**
+📘 **Gold_Price_Analysis_and_Prediction_Description.pdf**
 
 ---
 
